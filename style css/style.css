@@ -1,0 +1,155 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#header a{
+    text-decoration: none;
+}
+
+#header{
+    overflow: auto;
+    padding: 40px 13rem;
+}
+
+#header .logo{
+    float: left;
+}
+
+#header .navbar{
+    float: right;
+}
+
+.logo a{
+    color: #000000E6 ;
+    font-size: 20px;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.navbar a{
+    margin-right: 20px;
+    margin-left: 5px;
+    color: #fff;
+    background-color: #0D6EFD;
+    padding: 15px 20px;
+    font-size: 16px;
+    border-radius: 7px;
+}
+
+#Generate{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-landing-page/assets/img/bg-masthead.jpg);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    padding: 40px 13rem;
+}
+
+.generate-text h1{
+    font-size: 85px;
+    color: #fff;
+    width: 57%;
+    margin: auto;
+    height:max-content;
+}
+
+.generate-form input{
+    padding: 28px 202px 21px 15px;
+    width: 37%;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    font-weight: 500;
+}
+
+.generate-form button{
+    margin-right: 20px;
+    margin-left: 5px;
+    color: #fff;
+    background-color: #0D6EFD;
+    padding: 22px 20px;
+    font-size: 16px;
+    border-radius: 7px;
+    outline: none;
+    border: 1px solid #0D6EFD;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 35px;
+}
+
+.br-all .box .top i{
+    background-color: #fff;
+    color: #0D6EFD;
+    border-radius: 100%;
+    
+    padding-left: 14rem;
+    font-size: 80px;
+    margin-bottom: 60px;
+    margin-top: 80px;
+    text-align: center;
+}
+
+.br-all .box{
+    width: 100%;
+    float: left;
+    padding: 0 1% 130px;
+    background-color: #fff;
+}
+
+.br-all .box{
+    width: 32%;
+    vertical-align: bottom;
+}
+
+.br-all .box .bottom {
+    text-align: center;
+   
+}
+
+
+
+.br-all .bottom p{
+    width: 100%;
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.br-all .bottom h3{
+    font-size: 25px;
+}
+#All{
+    padding: 0 5rem;
+    background-color: #F8F9FA;
+    overflow: auto;
+}
+.box_2 .text h2{
+    width: 50%;
+    float: left;
+    padding-top: 100px;
+    padding-bottom: 100px;
+
+   
+}
+.box_2 .photo img{
+    width: 50%;
+    float: right;
+    box-sizing: border-box;
+   
+}
+.box_1 .photo img{
+    width: 50%;
+    float: left;
+    box-sizing: border-box;
+   
+}
+.box_1 .text{
+    width: 49%;
+    float: right;
+    padding-top: 100px;
+    margin-left: 10px;
+   
+}
